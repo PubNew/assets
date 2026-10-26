@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="512" height="512">
+  <defs><linearGradient id="bg" x1="1" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8C61FF"/><stop offset="1" stop-color="#6018D6"/></linearGradient></defs>
+  <circle cx="70" cy="70" r="70" fill="url(#bg)"/>
+  <g transform="translate(31 43.162) scale(.506494) translate(3 3)"><path fill-rule="evenodd" stroke-width="5" stroke-linejoin="round" d="M0 0H50A30 30 0 0 1 50 60H20V100H0Z M20 20H50A10 10 0 0 1 50 40H20Z" fill="#FFFFFF" stroke="#FFFFFF"/><path stroke-width="5" stroke-linejoin="round" transform="translate(8 0)" d="M44 100L80 48L120 90V0H140V100H102L80 77V100Z" fill="#DCD4FF" stroke="#DCD4FF"/></g>
+</svg>
